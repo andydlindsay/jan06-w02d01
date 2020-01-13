@@ -1,0 +1,29 @@
+{
+  "name": "jan06-w02d01",
+  "version": "1.0.0",
+  "description": "Lecture notes and example app for W2D1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andydlindsay/jan06-w02d01.git"
+  },
+  "keywords": [
+    "tdd",
+    "mocha",
+    "chai",
+    "fun"
+  ],
+  "author": "Andy Lindsay <andydlindsay@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andydlindsay/jan06-w02d01/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/jan06-w02d01#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
